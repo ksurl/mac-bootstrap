@@ -2,6 +2,7 @@ brew "ansible"
 brew "atomicparsley"
 brew "bash"
 #brew "bitwarden-cli"
+#brew "docker-machine"
 brew "git"
 brew "gh"
 brew "htop"
@@ -25,6 +26,7 @@ cask "cakebrew"
 cask "coconutbattery"
 #cask "cyberduck"
 #cask "discord"
+#cask "docker"
 #cask "epic-games"
 cask "firefox"
 cask "github"
@@ -45,7 +47,6 @@ cask "powershell"
 cask "qlstephen"
 cask "signal"
 cask "silicon"
-#cask "slack"
 cask "spotify"
 #cask "steam"
 #cask "suspicious-package"
@@ -60,5 +61,5 @@ cask "vmware-horizon-client"
 mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
 mas "Bitwarden", id: 1352778147
 mas "OneDrive", id: 823766827
-#mas "Steam Link", id: 1246969117
+mas "Steam Link", id: 1246969117
 #mas "WireGuard", id: 1451685025
