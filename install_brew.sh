@@ -1,5 +1,7 @@
 #!/bin/bash
 
+install=$1
+
 xcode-select -p &> /dev/null
 
 if [ $? -ne 0 ]; then
@@ -19,5 +21,4 @@ fi
 
 brew update
 
-brew bundle
-
+brew bundle --file "Brewfile.$install"

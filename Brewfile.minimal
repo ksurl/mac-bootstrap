@@ -1,0 +1,28 @@
+brew "bash"
+brew "git"
+brew "gh"
+brew "mas"
+brew "python@3.9"
+brew "vim"
+brew "wget"
+brew "youtube-dl"
+
+cask "appcleaner"
+cask "authy"
+cask "coconutbattery"
+cask "firefox"
+cask "iina"
+cask "iterm2"
+cask "lulu"
+cask "netnewswire"
+cask "oversight"
+cask "plex"
+cask "postbox"
+cask "silicon"
+cask "spotify"
+cask "transmission-remote-gui"
+cask "visual-studio-code"
+
+mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
+mas "Bitwarden", id: 1352778147
+mas "OneDrive", id: 823766827
