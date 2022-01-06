@@ -1,5 +1,4 @@
 brew "ansible"
-brew "atomicparsley"
 brew "bash"
 brew "gh"
 brew "git"
@@ -27,7 +26,6 @@ cask "balenaetcher"
 cask "coconutbattery"
 cask "discord"
 cask "firefox"
-#cask "google-chrome"
 #cask "github"
 cask "iina"
 cask "iterm2"
@@ -40,14 +38,12 @@ cask "postbox"
 cask "signal"
 cask "silicon"
 cask "spotify"
-cask "transmission-remote-gui"
-cask "utm"
 cask "visual-studio-code"
-#cask "vmware-fusion"
 cask "vmware-horizon-client"
-#cask "zoom"
 
 mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
 mas "Bitwarden", id: 1352778147
+mas "Microsoft Remote Desktop", id: 1295203466
 mas "OneDrive", id: 823766827
-#mas "WireGuard", id: 1451685025
+mas "WireGuard", id: 1451685025
+mas "Tailscale", id: 1475387142
