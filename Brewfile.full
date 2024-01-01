@@ -1,5 +1,4 @@
 brew "ansible"
-brew "autossh"
 brew "bash"
 brew "ffmpeg"
 brew "gh"
@@ -10,24 +9,21 @@ brew "lazygit"
 brew "mas"
 brew "ncdu"
 brew "neovim"
-brew "python@3.11"
-brew "restic"
+brew "python@3.12"
 brew "rsync"
 brew "sevenzip"
 brew "smartmontools"
-brew "speedtest-cli"
 brew "tmux"
 brew "vim"
-brew "wakeonlan"
 brew "weechat"
 brew "wget"
 brew "yt-dlp"
 
+cask "amazon-workspaces"
 cask "appcleaner"
 cask "authy"
 cask "balenaetcher"
 cask "buckets"
-cask "cloudflare-warp"
 cask "coconutbattery"
 cask "discord"
 cask "duckduckgo"
@@ -44,20 +40,14 @@ cask "netnewswire"
 cask "oversight"
 cask "plex"
 cask "postbox"
-cask "powershell"
 cask "rectangle"
-cask "rustdesk"
 cask "silicon"
 cask "spotify"
-cask "steam"
 cask "visual-studio-code"
-cask "vmware-fusion"
 cask "vmware-horizon-client"
 
 mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
-mas "BBEdit", id: 404009241
 mas "Bitwarden", id: 1352778147
-mas "Hush", id: 1544743900
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "OneDrive", id: 823766827
 mas "Tailscale", id: 1475387142
