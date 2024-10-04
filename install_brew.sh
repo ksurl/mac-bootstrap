@@ -22,3 +22,11 @@ fi
 brew update
 
 brew bundle --file "Brewfile.$install"
+
+# clean up self updating casks
+apps="discord duckduckgo firefox iterm2 lulu oversight plex spotify steam visual-studio-code"
+
+for app in $apps
+do
+  rm -rf "/opt/homebrew/Casks/$app"
+done
