@@ -15,16 +15,19 @@ cask "firefox"
 cask "iina"
 cask "iterm2"
 cask "keyboardcleantool"
+cask "keepassxc"
 cask "lulu"
 cask "netnewswire"
 cask "oversight"
 cask "plex"
-cask "postbox"
 cask "rectangle"
 cask "silicon"
 cask "spotify"
 cask "visual-studio-code"
 
-mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
+mas "AdGuard for Safari", id: 1440147259
 mas "Bitwarden", id: 1352778147
+mas "Brother iPrint&Scan", id: 1193539993
+mas "DuckDuckGo Privacy for Safari", id: 1482920575
 mas "OneDrive", id: 823766827
+mas "Sink It for Reddit", id: 6449873635

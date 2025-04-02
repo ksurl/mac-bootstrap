@@ -22,7 +22,6 @@ brew "zoxide"
 cask "amazon-workspaces"
 cask "appcleaner"
 cask "balenaetcher"
-cask "buckets"
 cask "cyberduck"
 cask "coconutbattery"
 cask "discord"
@@ -32,24 +31,28 @@ cask "firefox"
 cask "font-jetbrains-mono-nerd-font"
 cask "iina"
 cask "iterm2"
-cask "jellyfin-media-player"
 cask "keepassxc"
 cask "keyboardcleantool"
 cask "lulu"
 cask "microsoft-edge"
 cask "netnewswire"
-cask "orbstack"
 cask "oversight"
 cask "plex"
-cask "postbox"
 cask "rectangle"
 cask "silicon"
 cask "spotify"
-cask "tuneful"
 cask "visual-studio-code"
-cask "vmware-horizon-client"
+cask "omnissa-horizon-client"
 
-mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
+mas "AdGuard for Safari", id: 1440147259
 mas "Bitwarden", id: 1352778147
+mas "Brother iPrint&Scan", id: 1193539993
+mas "DuckDuckGo Privacy for Safari", id: 1482920575
+mas "GitHub File Icons", id: 1631366167
+mas "Hover for Safari", id: 1540705431
 mas "OneDrive", id: 823766827
+mas "Refined GitHub", id: id1519867270
+mas "Sink It for Reddit", id: 6449873635
 mas "Tailscale", id: 1475387142
+mas "The Camelizer", id: 1532579087
+mas "WireGuard", id: 1451685025
