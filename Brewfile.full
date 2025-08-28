@@ -9,11 +9,13 @@ brew "jq"
 brew "mas"
 brew "ncdu"
 brew "neovim"
-brew "python@3.12"
+brew "python@3.13"
+brew "rclone"
 brew "rsync"
 brew "sshs"
 brew "superfile"
 brew "tmux"
+brew "uv"
 brew "vim"
 brew "wget"
 brew "yt-dlp"
@@ -22,8 +24,8 @@ brew "zoxide"
 cask "amazon-workspaces"
 cask "appcleaner"
 cask "balenaetcher"
-cask "cyberduck"
 cask "coconutbattery"
+cask "cyberduck"
 cask "discord"
 cask "duckduckgo"
 cask "ente-auth"
@@ -36,23 +38,24 @@ cask "keyboardcleantool"
 cask "lulu"
 cask "microsoft-edge"
 cask "netnewswire"
+cask "omnissa-horizon-client"
 cask "oversight"
 cask "plex"
 cask "rectangle"
 cask "silicon"
 cask "spotify"
 cask "visual-studio-code"
-cask "omnissa-horizon-client"
 
 mas "AdGuard for Safari", id: 1440147259
 mas "Bitwarden", id: 1352778147
 mas "Brother iPrint&Scan", id: 1193539993
+mas "Budget Flow", id: 1640091876
 mas "DuckDuckGo Privacy for Safari", id: 1482920575
 mas "GitHub File Icons", id: 1631366167
 mas "Hover for Safari", id: 1540705431
 mas "OneDrive", id: 823766827
-mas "Refined GitHub", id: id1519867270
 mas "Sink It for Reddit", id: 6449873635
 mas "Tailscale", id: 1475387142
 mas "The Camelizer", id: 1532579087
+mas "uBlock Origin Lite", id: 6745342698
 mas "WireGuard", id: 1451685025

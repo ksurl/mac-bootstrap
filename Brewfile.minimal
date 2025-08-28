@@ -2,9 +2,10 @@ brew "bash"
 brew "git"
 brew "mas"
 brew "neovim"
-brew "python@3.12"
+brew "python@3.13"
 brew "rsync"
 brew "tmux"
+brew "uv"
 brew "vim"
 brew "wget"
 brew "yt-dlp"
@@ -31,3 +32,4 @@ mas "Brother iPrint&Scan", id: 1193539993
 mas "DuckDuckGo Privacy for Safari", id: 1482920575
 mas "OneDrive", id: 823766827
 mas "Sink It for Reddit", id: 6449873635
+mas "uBlock Origin Lite", id: 6745342698
