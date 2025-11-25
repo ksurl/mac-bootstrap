@@ -27,23 +27,20 @@ cask "balenaetcher"
 cask "coconutbattery"
 cask "cyberduck"
 cask "discord"
-cask "duckduckgo"
 cask "ente-auth"
 cask "firefox"
-cask "font-jetbrains-mono-nerd-font"
+cask "halloy"
 cask "iina"
 cask "iterm2"
 cask "keepassxc"
 cask "keyboardcleantool"
-cask "lulu"
 cask "microsoft-edge"
+cask "naps2"
 cask "netnewswire"
 cask "omnissa-horizon-client"
-cask "oversight"
 cask "plex"
-cask "rectangle"
-cask "silicon"
-cask "spotify"
+cask "silicon-app"
+cask "topnotch"
 cask "visual-studio-code"
 
 mas "AdGuard for Safari", id: 1440147259
@@ -52,10 +49,8 @@ mas "Brother iPrint&Scan", id: 1193539993
 mas "Budget Flow", id: 1640091876
 mas "DuckDuckGo Privacy for Safari", id: 1482920575
 mas "GitHub File Icons", id: 1631366167
-mas "Hover for Safari", id: 1540705431
 mas "OneDrive", id: 823766827
 mas "Sink It for Reddit", id: 6449873635
 mas "Tailscale", id: 1475387142
 mas "The Camelizer", id: 1532579087
 mas "uBlock Origin Lite", id: 6745342698
-mas "WireGuard", id: 1451685025
